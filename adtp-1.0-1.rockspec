@@ -1,8 +1,7 @@
 package = "adtp"
 version = "1.0-1"
 source = {
-    url = "git://github.com/ApplePieCodes/adtp-lu",
-    tag = "v1.0"
+    url = "https://github.com/ApplePieCodes/adtp-lu/archive/refs/tags/v1.0.tar.gz",
 }
 description = {
     summary = "The ADTP Protocol",
